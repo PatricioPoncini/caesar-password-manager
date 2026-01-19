@@ -39,8 +39,3 @@ python main.py
 - New password: Enter the software name, username, and password to encrypt and save.
 - View passwords: Decrypts and displays all stored credentials in an aligned table.
 - Exit: Closes the application.
-
-### `Menu Options`
-- New password: Enter the software name, username, and password to encrypt and save.
-- View passwords: Decrypts and displays all stored credentials in an aligned table.
-- Exit: Closes the application.
